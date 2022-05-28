@@ -1,0 +1,16 @@
+{
+    "gastos": [
+        {
+            "id": "fd5ff5",
+            "roommate": "Kate Alvarez",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "2fce5d",
+            "roommate": "Phoebe Cooper",
+            "descripcion": "Articulos de limpieza",
+            "monto": 10000
+        }
+    ]
+}
